@@ -1,4 +1,6 @@
-# ![NSω Logo](NS_Omega_logo.png)
+<p align="center">
+  <img src="visuals/NS_Omega_logo.png" alt="NSω Logo" width="200"/>
+</p>
 
 # NSω: Neural Superoscillatory Hybrid Framework
 
